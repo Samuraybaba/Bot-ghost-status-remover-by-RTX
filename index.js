@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🚀 Sponsor: Nexorix Host"];
+const statusMessages = ["🚀 En İyisi"];
 
 
 let currentIndex = 0;
